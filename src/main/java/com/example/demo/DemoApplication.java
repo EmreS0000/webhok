@@ -16,6 +16,6 @@ public class DemoApplication {
 
 	@GetMapping("/")
 	public String hello() {
-		return "🌟 Muazzam! GitHub Webhook tetiklendi, kod Jenkins'e ulasti ve Docker tarafindan basariyla guncellendi! (Yeni Versiyon v2.0)";
+		return "🌟 Muazzam! GitHub Webhook tetiklendi, kod Jenkins'e ulasti ve Docker tarafindan basariyla guncellendi! jgjgsgf(Yeni Versiyon v2.0)";
 	}
 }
